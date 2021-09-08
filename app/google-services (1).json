@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "985293042688",
+    "firebase_url": "https://userauthentication-18ead.firebaseio.com",
+    "project_id": "userauthentication-18ead",
+    "storage_bucket": "userauthentication-18ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985293042688:android:df96060de6ac7e373054e5",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985293042688-9origi7b7c20p1srmbvluft0hav125nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKC7l6icFoNAAaOf3UKwjltf7hio_7Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985293042688-9origi7b7c20p1srmbvluft0hav125nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
